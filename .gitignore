@@ -179,3 +179,7 @@ poetry.toml
 pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python
+earthquake_counts.png
+.gitignore
+.gitignore
+earthquake_magnitude.png
